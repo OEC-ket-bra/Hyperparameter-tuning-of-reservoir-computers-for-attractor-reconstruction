@@ -6,7 +6,7 @@
 ## Overview
 卒業研究で行ったものです。
 
-詳細はAbstract.pdf,卒業研究発表.pdfをご覧ください。
+詳細はAbstract.pdf,[卒業研究発表](https://github.com/OEC-ket-bra/Hyperparameter-tuning-of-reservoir-computers-for-attractor-reconstruction/blob/40f7544059d61323a57010051edfbac70f792073/%E5%8D%92%E6%A5%AD%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.pdf)をご覧ください。
 
 \png に予測結果やTuningの様子を載せています。
 
