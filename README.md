@@ -10,4 +10,4 @@
 コードは非公開にしています🙇後々公開予定です。
 
 ## Author
-OEC-ket-bra
+[OEC-ket-bra](https://github.com/OEC-ket-bra)
