@@ -6,7 +6,7 @@
 ## Overview
 卒業研究で行ったものです。
 
-詳細はAbstract,発表pdfをご覧ください。
+詳細はAbstract.pdf,卒業研究発表.pdfをご覧ください。
 
 \png に予測結果やTuningの様子を載せています。
 
