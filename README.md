@@ -1,6 +1,6 @@
 # Hyperparameter tuning of reservoir computers for attractor reconstruction
 
-image or gif
+png/4_pred.png
 
 ## Overview
 卒業研究で行ったものです。
