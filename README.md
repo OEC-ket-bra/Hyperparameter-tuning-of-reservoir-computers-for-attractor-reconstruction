@@ -1,2 +1,2 @@
-# Tuning-RC-for-Attractor-Reconstruction
+# Hyperparameter tuning of reservoir computers for attractor reconstruction
 
