@@ -1,4 +1,4 @@
-# Hyperparameter tuning of reservoir computers for attractor reconstruction
+# Hyperparameter tuning of reservoir computers for attractor reconstruction（アトラクタ再構成のためのリザバーコンピューティングのhyperparameter tuning）
 ![4_pred](png/4_pred.png)
 
 
