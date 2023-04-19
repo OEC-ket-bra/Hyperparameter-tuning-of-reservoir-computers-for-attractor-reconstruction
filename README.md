@@ -1,6 +1,6 @@
 # Hyperparameter tuning of reservoir computers for attractor reconstruction（アトラクタ再構成のためのリザバーコンピューティングのhyperparameter tuning）
 ![4_pred](png/4_pred.png)
-
+提案手法によって、アトラクタ再構成に達成していく様子
 
 ## Overview
 卒業研究で行ったものです。
